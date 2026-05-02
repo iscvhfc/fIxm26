@@ -1,0 +1,400 @@
+{
+  "documentos": [
+    {
+      "id": 1,
+      "articulo": "69",
+      "anio": 2026,
+      "trimestre": 1,
+      "titulo": "F-02-A Remuneraciones",
+      "nombre_archivo": "a69_f02_a_1er.xlsx",
+      "url": "/archivos/2026/69/a69_f02_a_1er.xlsx"
+    },
+    {
+      "id": 2,
+      "articulo": "69",
+      "anio": 2026,
+      "trimestre": 1,
+      "titulo": "F-02-B Remuneraciones (Honorarios)",
+      "nombre_archivo": "a69_f02_b_1er.xlsx",
+      "url": "/archivos/2026/69/a69_f02_b_1er.xlsx"
+    },
+    {
+      "id": 3,
+      "articulo": "69",
+      "anio": 2026,
+      "trimestre": 1,
+      "titulo": "F-03 Directorio",
+      "nombre_archivo": "a69_f03_1er.xlsx",
+      "url": "/archivos/2026/69/a69_f03_1er.xlsx"
+    },
+    {
+      "id": 4,
+      "articulo": "69",
+      "anio": 2026,
+      "trimestre": 1,
+      "titulo": "F-07 Plan de Desarrollo",
+      "nombre_archivo": "a69_f7_1er.xlsx",
+      "url": "/archivos/2026/69/a69_f7_1er.xlsx"
+    },
+    {
+      "id": 5,
+      "articulo": "69",
+      "anio": 2026,
+      "trimestre": 1,
+      "titulo": "F-09 Metas y Objetivos",
+      "nombre_archivo": "a69_f9_1er.xlsx",
+      "url": "/archivos/2026/69/a69_f9_1er.xlsx"
+    },
+    {
+      "id": 6,
+      "articulo": "69",
+      "anio": 2026,
+      "trimestre": 1,
+      "titulo": "F-13 Contratos y Convenios",
+      "nombre_archivo": "a69_f13_1er.xlsx",
+      "url": "/archivos/2026/69/a69_f13_1er.xlsx"
+    },
+    {
+      "id": 7,
+      "articulo": "69",
+      "anio": 2026,
+      "trimestre": 1,
+      "titulo": "F-16-A Subsidios y Apoyos",
+      "nombre_archivo": "a69_f16_a_1er.xlsx",
+      "url": "/archivos/2026/69/a69_f16_a_1er.xlsx"
+    },
+    {
+      "id": 8,
+      "articulo": "69",
+      "anio": 2026,
+      "trimestre": 1,
+      "titulo": "F-16-B Subsidios y Apoyos (Complemento)",
+      "nombre_archivo": "a69_f16_b_1er.xlsx",
+      "url": "/archivos/2026/69/a69_f16_b_1er.xlsx"
+    },
+    {
+      "id": 9,
+      "articulo": "69",
+      "anio": 2026,
+      "trimestre": 1,
+      "titulo": "F-19 Concesiones y Permisos",
+      "nombre_archivo": "a69_f19_1er.xlsx",
+      "url": "/archivos/2026/69/a69_f19_1er.xlsx"
+    },
+    {
+      "id": 10,
+      "articulo": "69",
+      "anio": 2026,
+      "trimestre": 1,
+      "titulo": "F-20 Informacion Curricular",
+      "nombre_archivo": "a69_f20_1er.xlsx",
+      "url": "/archivos/2026/69/a69_f20_1er.xlsx"
+    },
+    {
+      "id": 11,
+      "articulo": "69",
+      "anio": 2026,
+      "trimestre": 1,
+      "titulo": "F-23-A Resultados de Auditorias",
+      "nombre_archivo": "a69_f23_a_1er.xlsx",
+      "url": "/archivos/2026/69/a69_f23_a_1er.xlsx"
+    },
+    {
+      "id": 12,
+      "articulo": "69",
+      "anio": 2026,
+      "trimestre": 1,
+      "titulo": "F-23-B Resultados de Auditorias (Complemento A)",
+      "nombre_archivo": "a69_f23_b_1er.xlsx",
+      "url": "/archivos/2026/69/a69_f23_b_1er.xlsx"
+    },
+    {
+      "id": 13,
+      "articulo": "69",
+      "anio": 2026,
+      "trimestre": 1,
+      "titulo": "F-23-C Resultados de Auditorias (Complemento B)",
+      "nombre_archivo": "a69_f23_c_1er.xlsx",
+      "url": "/archivos/2026/69/a69_f23_c_1er.xlsx"
+    },
+    {
+      "id": 14,
+      "articulo": "69",
+      "anio": 2026,
+      "trimestre": 1,
+      "titulo": "F-24 Recursos Publicos",
+      "nombre_archivo": "a69_f24_1er.xlsx",
+      "url": "/archivos/2026/69/a69_f24_1er.xlsx"
+    },
+    {
+      "id": 15,
+      "articulo": "69",
+      "anio": 2026,
+      "trimestre": 1,
+      "titulo": "F-27 Programa Anual de Obras",
+      "nombre_archivo": "a69_f27_1er.xlsx",
+      "url": "/archivos/2026/69/a69_f27_1er.xlsx"
+    },
+    {
+      "id": 16,
+      "articulo": "69",
+      "anio": 2026,
+      "trimestre": 1,
+      "titulo": "F-30 Estados Financieros",
+      "nombre_archivo": "a69_f30_1er.xlsx",
+      "url": "/archivos/2026/69/a69_f30_1er.xlsx"
+    },
+    {
+      "id": 17,
+      "articulo": "69",
+      "anio": 2026,
+      "trimestre": 1,
+      "titulo": "F-39-A Informacion de Interes Publico",
+      "nombre_archivo": "a69_f39_a_1er.xlsx",
+      "url": "/archivos/2026/69/a69_f39_a_1er.xlsx"
+    },
+    {
+      "id": 18,
+      "articulo": "69",
+      "anio": 2026,
+      "trimestre": 1,
+      "titulo": "F-39-B Informacion de Interes Publico (Complemento A)",
+      "nombre_archivo": "a69_f39_b_1er.xlsx",
+      "url": "/archivos/2026/69/a69_f39_b_1er.xlsx"
+    },
+    {
+      "id": 19,
+      "articulo": "69",
+      "anio": 2026,
+      "trimestre": 1,
+      "titulo": "F-39-C Informacion de Interes Publico (Complemento B)",
+      "nombre_archivo": "a69_f39_c_1er.xlsx",
+      "url": "/archivos/2026/69/a69_f39_c_1er.xlsx"
+    },
+    {
+      "id": 20,
+      "articulo": "69",
+      "anio": 2026,
+      "trimestre": 1,
+      "titulo": "F-39-D Informacion de Interes Publico (Complemento C)",
+      "nombre_archivo": "a69_f39_d_1er.xlsx",
+      "url": "/archivos/2026/69/a69_f39_d_1er.xlsx"
+    },
+    {
+      "id": 21,
+      "articulo": "69",
+      "anio": 2026,
+      "trimestre": 1,
+      "titulo": "F-41 Actas y Resoluciones",
+      "nombre_archivo": "a69_f41_1er.xlsx",
+      "url": "/archivos/2026/69/a69_f41_1er.xlsx"
+    },
+    {
+      "id": 22,
+      "articulo": "69",
+      "anio": 2026,
+      "trimestre": 1,
+      "titulo": "F-45-A Informacion Adicional",
+      "nombre_archivo": "a69_f45_a_1er.xlsx",
+      "url": "/archivos/2026/69/a69_f45_a_1er.xlsx"
+    },
+    {
+      "id": 23,
+      "articulo": "69",
+      "anio": 2026,
+      "trimestre": 1,
+      "titulo": "F-45-B Informacion Adicional (Complemento A)",
+      "nombre_archivo": "a69_f45_b_1er.xlsx",
+      "url": "/archivos/2026/69/a69_f45_b_1er.xlsx"
+    },
+    {
+      "id": 24,
+      "articulo": "69",
+      "anio": 2026,
+      "trimestre": 1,
+      "titulo": "F-45-C Informacion Adicional (Complemento B)",
+      "nombre_archivo": "a69_f45_c_1er.xlsx",
+      "url": "/archivos/2026/69/a69_f45_c_1er.xlsx"
+    },
+    {
+      "id": 25,
+      "articulo": "69",
+      "anio": 2026,
+      "trimestre": 1,
+      "titulo": "F-48-A Informacion de Utilidad",
+      "nombre_archivo": "a69_f48_a_1er.xlsx",
+      "url": "/archivos/2026/69/a69_f48_a_1er.xlsx"
+    },
+    {
+      "id": 26,
+      "articulo": "69",
+      "anio": 2026,
+      "trimestre": 1,
+      "titulo": "F-48-B Informacion de Utilidad (Complemento A)",
+      "nombre_archivo": "a69_f48_b_1er.xlsx",
+      "url": "/archivos/2026/69/a69_f48_b_1er.xlsx"
+    },
+    {
+      "id": 27,
+      "articulo": "69",
+      "anio": 2026,
+      "trimestre": 1,
+      "titulo": "F-48-C Informacion de Utilidad (Complemento B)",
+      "nombre_archivo": "a69_f48_c_1er.xlsx",
+      "url": "/archivos/2026/69/a69_f48_c_1er.xlsx"
+    },
+    {
+      "id": 28,
+      "articulo": "69",
+      "anio": 2026,
+      "trimestre": 1,
+      "titulo": "Unidad de Transparencia",
+      "nombre_archivo": "a69_UP_1er.xlsx",
+      "url": "/archivos/2026/69/a69_UP_1er.xlsx"
+    },
+    {
+      "id": 29,
+      "articulo": "77",
+      "anio": 2026,
+      "trimestre": 1,
+      "titulo": "F-01 Informacion del Sindicato",
+      "nombre_archivo": "a77_f1_1er.xlsx",
+      "url": "/archivos/2026/77/a77_f1_1er.xlsx"
+    },
+    {
+      "id": 30,
+      "articulo": "77",
+      "anio": 2026,
+      "trimestre": 1,
+      "titulo": "F-02 Directiva Sindical",
+      "nombre_archivo": "a77_f2_1er.xlsx",
+      "url": "/archivos/2026/77/a77_f2_1er.xlsx"
+    },
+    {
+      "id": 31,
+      "articulo": "77",
+      "anio": 2026,
+      "trimestre": 1,
+      "titulo": "F-03 Contrato Colectivo",
+      "nombre_archivo": "a77_f3_1er.xlsx",
+      "url": "/archivos/2026/77/a77_f3_1er.xlsx"
+    },
+    {
+      "id": 32,
+      "articulo": "77",
+      "anio": 2026,
+      "trimestre": 1,
+      "titulo": "F-04 Reglamento Interior",
+      "nombre_archivo": "a77_f4_1er.xlsx",
+      "url": "/archivos/2026/77/a77_f4_1er.xlsx"
+    },
+    {
+      "id": 33,
+      "articulo": "77",
+      "anio": 2026,
+      "trimestre": 1,
+      "titulo": "F-05 Estatutos",
+      "nombre_archivo": "a77_f5_1er.xlsx",
+      "url": "/archivos/2026/77/a77_f5_1er.xlsx"
+    },
+    {
+      "id": 34,
+      "articulo": "77",
+      "anio": 2026,
+      "trimestre": 1,
+      "titulo": "F-06 Cuotas Sindicales",
+      "nombre_archivo": "a77_f6_1er.xlsx",
+      "url": "/archivos/2026/77/a77_f6_1er.xlsx"
+    },
+    {
+      "id": 35,
+      "articulo": "77",
+      "anio": 2026,
+      "trimestre": 1,
+      "titulo": "F-07-A Remuneraciones Directiva",
+      "nombre_archivo": "a77_f07_a_1er.xlsx",
+      "url": "/archivos/2026/77/a77_f07_a_1er.xlsx"
+    },
+    {
+      "id": 36,
+      "articulo": "77",
+      "anio": 2026,
+      "trimestre": 1,
+      "titulo": "F-07-B Remuneraciones Directiva (Complemento A)",
+      "nombre_archivo": "a77_f07_b_1er.xlsx",
+      "url": "/archivos/2026/77/a77_f07_b_1er.xlsx"
+    },
+    {
+      "id": 37,
+      "articulo": "77",
+      "anio": 2026,
+      "trimestre": 1,
+      "titulo": "F-07-C Remuneraciones Directiva (Complemento B)",
+      "nombre_archivo": "a77_f07_c_1er.xlsx",
+      "url": "/archivos/2026/77/a77_f07_c_1er.xlsx"
+    },
+    {
+      "id": 38,
+      "articulo": "77",
+      "anio": 2026,
+      "trimestre": 1,
+      "titulo": "F-08 Padron de Afiliados",
+      "nombre_archivo": "a77_f8_1er.xlsx",
+      "url": "/archivos/2026/77/a77_f8_1er.xlsx"
+    },
+    {
+      "id": 39,
+      "articulo": "78",
+      "anio": 2026,
+      "trimestre": 1,
+      "titulo": "F-01 Obligaciones de Afiliacion",
+      "nombre_archivo": "a78_f1_1er.xlsx",
+      "url": "/archivos/2026/78/a78_f1_1er.xlsx"
+    },
+    {
+      "id": 40,
+      "articulo": "78",
+      "anio": 2026,
+      "trimestre": 1,
+      "titulo": "F-02 Requisitos de Ingreso",
+      "nombre_archivo": "a78_f2_1er.xlsx",
+      "url": "/archivos/2026/78/a78_f2_1er.xlsx"
+    },
+    {
+      "id": 41,
+      "articulo": "78",
+      "anio": 2026,
+      "trimestre": 1,
+      "titulo": "F-03 Causas de Baja",
+      "nombre_archivo": "a78_f3_1er.xlsx",
+      "url": "/archivos/2026/78/a78_f3_1er.xlsx"
+    },
+    {
+      "id": 42,
+      "articulo": "78",
+      "anio": 2026,
+      "trimestre": 1,
+      "titulo": "F-04-A Derechos y Obligaciones",
+      "nombre_archivo": "a78_f4_a_1er.xlsx",
+      "url": "/archivos/2026/78/a78_f4_a_1er.xlsx"
+    },
+    {
+      "id": 43,
+      "articulo": "78",
+      "anio": 2026,
+      "trimestre": 1,
+      "titulo": "F-04-B Derechos y Obligaciones (Complemento A)",
+      "nombre_archivo": "a78_f4_b_1er.xlsx",
+      "url": "/archivos/2026/78/a78_f4_b_1er.xlsx"
+    },
+    {
+      "id": 44,
+      "articulo": "78",
+      "anio": 2026,
+      "trimestre": 1,
+      "titulo": "F-04-C Derechos y Obligaciones (Complemento B)",
+      "nombre_archivo": "a78_f4_c_1er.xlsx",
+      "url": "/archivos/2026/78/a78_f4_c_1er.xlsx"
+    }
+  ]
+}
