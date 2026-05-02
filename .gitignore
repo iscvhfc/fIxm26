@@ -1,2 +1,4 @@
 inicio/
 *.tar.gz
+node_modules/
+dist/
